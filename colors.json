@@ -1131,6 +1131,142 @@
 
 	"zappos": {
 		"blue": "#0076BD"
-	}
+	},
 
+	
+	"asfinag": {
+		"grey": "#48535E"
+	},
+	
+	"alpha": {
+		"blue": "#004D90"
+	},
+	
+	"xxxlutz": {
+		"red": "#E20015"
+	},
+	
+	"evn": {
+		"red": "#CC0001"
+	},
+	
+	"porr": {
+		"blue": "#273D71",
+		"yellow": "#FFED00"
+	},
+	
+	"novomatic": {
+		"blue": "#12255F"
+	},
+	
+	"henkel": {
+		"red": "#E1000F"
+	},
+	
+	"wien_energie": {
+		"orange": "#EB6626",
+		"blue": "#002063"
+	},
+	
+	"casinos_austria": {
+		"dark_red": "#140001",
+		"bright_red": "#D70032"
+	},
+	
+	"hofer": {
+		"blue": "#001F78",
+		"light_blue": "#00B5DB",
+		"orange": "#F03D14",
+		"light_orange": "#FA6E0A",
+		"yellow": "#FFBF45"
+	},
+	
+	"verbund": {
+		"blue": "#004A8E"
+	},
+	
+	"andritz": {
+		"blue": "#006AAB",
+		"grey": "#6C6C6C"
+	},
+	
+	"bmw": {
+		"blue": "#008ac9",
+
+		"car_alpinewhite_iii": "#edece9",
+		"car_arctic": "#779dbd",
+		"car_atlantic_blue": "#517c8b",
+		"car_barbera_red": "#501b26",
+		"car_black_sapphiere": "#1d2125",
+		"car_blue_water": "#a6b7c7",
+		"car_crimson_red": "#9e202b",
+		"car_deep_green": "#033334",
+		"car_deep_sea_blue": "#032940",
+		"car_le_mans_blue": "#14385d",
+		"car_liquid_blue": "#80939e",
+		"car_mineral_white": "#bdbcb6",
+		"car_mojave": "#4f4844",
+		"car_monaco_blue": "#02152c",
+		"car_montenegro_blue": "#0a3e6e",
+		"car_onion_silver": "#bfb2a4",
+		"car_platinum_bronze": "#968e7f",
+		"car_space_grey": "#6f7270",
+		"car_sparkling_graphite": "#444950",
+		"car_tasman_green": "#495555",
+		"car_titanium_silver": "#ebecec",
+		"car_vermilion_red": "#6b181f"
+	},
+	
+	"telecom_austria": {
+		"red": "#E61537"
+	},
+	
+	"oebb": {
+		"red": "#E61732"
+	},
+	
+	"borealis": {
+		"blue": "#002C57",
+		"light_blue": "#005A95"
+	},
+	
+	"magna": {
+		"red": "#DB2D2E",
+		"grey": "#A7A7A7"
+	},
+	
+	"voestalpine": {
+		"blue": "#007EAE"
+	},
+	
+	"spar": {
+		"red": "#DD0612",
+		"green": "#00913D"
+	},
+	
+	"rewe_austria": {
+		"grey": "#6C6C6C",
+		"red": "#C61416",
+		"yellow": "#F5BD00"
+	},
+	
+	"strabag": {
+		"red": "#D2262C"
+	},
+	
+	"simacek": {
+		"blue": "#F4CD04",
+		"yellow": "#F6CD00"
+	},
+	
+	"gecosoft": {
+		"blue": "#43B8F2",
+		"grey": "#B2BABB"
+	},
+	
+	"inconcepts": {
+		"yellow": "#FFE000",
+		"blue": "#003C96"
+	}
+	
 }

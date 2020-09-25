@@ -1,6 +1,6 @@
 # brand-color-schemes
 
-This list contains over 400 brand specific colors. 
+This list contains over 500+ brand specific colors. 
 
 ## Installation
 
@@ -20,7 +20,8 @@ Even though CSS color keywords are case-insensitive, this list only contains low
 
 ## Changelog
 
-- v1.0.0 (2020-09-25): Initial release
+- v1.0.1 (2020-09-25): 545 colors in total
+- v1.0.0 (2020-09-25): 400+ colors, initial release
 
 ## License
 
