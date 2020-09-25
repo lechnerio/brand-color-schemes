@@ -1267,6 +1267,42 @@
 	"inconcepts": {
 		"yellow": "#FFE000",
 		"blue": "#003C96"
+	},
+
+	"discord": {
+		"purple": "#7E8DE3",
+		"light_purple": "#8899F7"
+	},
+	
+	"git": {
+		"red": "#E84E31",
+		"brown": "#3F2E00"
+	},
+	
+	"github": {
+		"black": "#1A1E22"
+	},
+	
+	"npmjs": {
+		"bright_red": "#C60000",
+		"red": "#C53635"
+	},
+	
+	"travis_ci": {
+		"red": "#CB3349",
+		"yellow": "#F2EBAC",
+		"skin": "##E6CCAD",
+		"grey": "#2D3136",
+
+		"check_pass": "#3FA959",
+		"check_issue": "#D5BC05",
+		"check_failed": "#BB3638"
+	},
+	
+	"patreon": {
+		"coral": "#F36553",
+		"blue": "#052947",
+		"orange": "#F75701"
 	}
 	
 }
