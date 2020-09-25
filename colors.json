@@ -1,0 +1,1136 @@
+{
+	"aw-root-beer": {
+		"brown": "#4F2400", 
+		"tan": "#D28816",
+		"orange": "#F15D22"
+	},
+
+	"accenture": {
+		"purple": "#A100FF"
+	},
+
+	"acer": {
+		"green": "#83B81A"
+	},
+
+	"adobe": {
+		"red": "#FF0000"
+	},
+
+	"aeropostale": {
+		"navy_blue": "#002D62"
+	},
+
+	"airbnb": {
+		"coral": "#FF585D"
+	},
+
+	"aldi": {
+		"blue": "#001F78",
+		"light_blue": "#00B5DB",
+		"orange": "#F03D14",
+		"light_orange": "#FA6E0A",
+		"yellow": "#FFBF45"
+	},
+
+	"allianz": {
+		"blue": "#223F7D"
+	},
+
+	"amazon": {
+		"orange": "#FF9900"
+	},
+
+	"american_express": {
+		"light_blue": "#2671B9",
+		"dark_blue": "#1B2954",
+		"light_grey": "#868D94",
+		"dark_grey": "#323031"
+	},
+
+	"android": {
+		"green": "#78C257"
+	},
+
+	"apple": {
+		"silver": "#A3AAAE",
+		"white": "#F9F6EF",
+
+		"iphone11_midnight_green": "#4E5851",
+		"iphone11_silver": "#EBEBE3",
+		"iphone11_space_grey": "#535150",
+		"iphone11_rose_gold": "#FAD7BD",
+
+		"iphone11_purple": "#D1CDDA",
+		"iphone11_yellow": "#FFE681",
+		"iphone11_green": "#AEE1CD",
+		"iphone11_black": "#1F2020",
+		"iphone11_white": "#F9F6EF",
+		"iphone11_red": "#BA0C2E",
+
+		"iphoneXR_blue": "#5EB0E5", 
+		"iphoneXR_white": "#F9F6EF", 
+		"iphoneXR_black": "#1F2020", 
+		"iphoneXR_yellow": "#F3D060", 
+		"iphoneXR_coral": "#EE7762", 
+		"iphoneXR_red": "#A5282C", 
+
+		"iphoneXS_black": "#1F2020",
+		"iphoneXS_gold": "#F5DDC5",
+		"iphoneXS_silver": "#E4E4E2",
+
+		"iphoneX_silver": "#E4E4E2",
+		"iphoneX_grey": "#25282A",
+
+		"iphone8_silver": "#E4E4E2",
+		"iphone8_space_grey": "#25282A",
+		"iphone8_gold": "#F5DDC5",
+
+		"iphone7_black": "#1F2020",
+		"iphone7_silver": "#E4E4E2",
+		"iphone7_gold": "#DFCCB7",
+		"iphone7_rose_gold": "#E6C7C2"
+	},
+
+	"arbys": {
+		"red": "#C5000C"
+	},
+
+	"arthur": {
+		"red": "#FD1812",
+		"navy": "#204E9C",
+		"yellow": "#EEE93B",
+		"blue": "#4E8DC3",
+		"orange": "#F5B324"
+	},
+
+	"asus": {
+		"blue": "#00539B"
+	},
+
+	"audi": {
+		"audi_red": "#BB0A30",
+		"audi_aluminium_silver": "#B3B3B3",
+		"audi_warm_silver": "#B6B1A9"
+	},
+
+	"august_schell_brewing": {
+		"blue": "#123782",
+		"gold": "#D6912D"
+	},
+
+	"barnes_noble": {
+		"green": "#366251",
+		"tan": "#C6BEB0"
+	},
+	
+	"barney_friends": {
+		"purple": "#B62684",
+		"green": "#009949",
+		"blue": "#385DAE"
+	},
+	
+	"barqs_root_beer": {
+		"silver": "#95A5AF",
+		"green": "#179547",
+		"red": "#C02A36"
+	},
+	
+	"blues_clues": {
+		"light_blue": "#00AEEF",
+		"dark_blue": "#194F90"
+	},
+	
+	"bob_the_builder": {
+		"yellow": "#FFCA02",
+		"dark_navy": "#070045",
+		"blue": "#024CA1",
+		"red": "#D91E26"
+	},
+	
+	"bath_body_works": {
+		"blue": "#005699"
+	},
+	
+	"bestbuy": {
+		"blue": "#0A4ABF",
+		"yellow": "#F6EB16"
+	},
+	
+	"blue_moon": {
+		"dark_blue": "#1D245C",
+		"light_blue": "#79C1F1",
+		"tan": "#FDEFE2"
+	},
+	
+	"bubble_guppies": {
+		"blue": "#0E85C9",
+		"light_blue": "#17BDE0",
+		"light_green": "#50BD86"
+	},
+	
+	"buckle": {
+		"maroon": "#8B2332"
+	},
+	
+	"bud_light": {
+		"blue": "#061148",
+		"light_blue": "#00A1E1"
+	},
+	
+	"budweiser": {
+		"bud_red": "#C8102E",
+		"navy": "#13294B",
+		"silver": "#B1B3B3"
+	},
+	
+	"buffalo_wild_wings": {
+		"yellow": "#FFD200",
+		"grey": "#AAAAA9"
+	},
+	
+	"bumble": {
+		"yellow": "#FFCB37"
+	},
+	
+	"burger_king": {
+		"red": "#EE1D23",
+		"blue": "#185494",
+		"yellow": "#FAAF18"
+	},
+	
+	"busch_light": {
+		"navy_blue": "#204C85",
+		"light_blue": "#00A4DA",
+		"grey": "#C2C3C5"
+	},
+	
+	"canon": {
+		"red": "#BF1920"
+	},
+	
+	"caribou_coffee": {
+		"teal": "#79AFBC"
+	},
+	
+	"centurylink": {
+		"green": "#118745",
+		"lime_green": "#8DC643"
+	},
+	
+	"charter_spectrum": {
+		"grey": "#77787B",
+		"blue": "#0076BC"
+	},
+	
+	"chickfila": {
+		"red": "#E51636"
+	},
+	
+	"chipotle": {
+		"red": "#A81612",
+		"maroon": "#451400"
+	},
+	
+	"cisco": {
+		"blue": "#049FD9",
+		"lake_blue": "#004BAF",
+		"river_blue": "#097DBC",
+		"icy_blue": "#C4D6ED",
+		"dark_grey": "#58585B",
+		"medium_grey": "#9E9EA2",
+		"light_grey": "#C6C7CA",
+		"pale_grey": "#E8EBF1"
+	},
+	
+	"cocacola": {
+		"red": "#F40009"
+	},
+	
+	"comcast_xfinity": {
+		"red": "#C8001D"
+	},
+	
+	"coorslight": {
+		"red": "#C2112F",
+		"grey": "#757373",
+		"light_grey": "#CBC8C7"
+	},
+	
+	"corona": {
+		"blue": "#005596",
+		"gold": "#FFC425"
+	},
+	
+	"costco": {
+		"red": "#E31837",
+		"blue": "#005DAA"
+	},
+	
+	"culvers": {
+		"blue": "#005599"
+	},
+	
+	"curious_george": {
+		"red": "#EB3323",
+		"yellow": "#FFFD54",
+		"brown": "#9E4A1B",
+		"tan": "#F7CDAF"
+	},
+	
+	"cvs_pharmacy": {
+		"red": "#CC0000"
+	},
+	
+	"dairy_queen": {
+		"red": "#EE3E42",
+		"blue": "#007AC1",
+		"yellow": "#F9AA53"
+	},
+	
+	"del_taco": {
+		"red": "#ED1C2E",
+		"green": "#B2BB1E",
+		"orange": "#F8971D",
+		"yellow": "#FFD200"
+	},
+	
+	"dell": {
+		"blue": "#007DB8"
+	},
+	
+	"deloitte": {
+		"green": "#86BC25"
+	},
+	
+	"dish": {
+		"red": "#E41932"
+	},
+	
+	"dominos": {
+		"red": "#E31837",
+		"blue": "#006491"
+	},
+	
+	"dora_the_explorer": {
+		"purple": "#773B96",
+		"blue": "#1268AE",
+		"orange": "#E74323",
+		"green": "#3E9A34",
+		"pink": "#F13EA1",
+		"dark_blue": "#1D4591"
+	},
+	
+	"dr_pepper": {
+		"red": "#D51143",
+		"maroon": "#711F25"
+	},
+	
+	"dunkin_donuts": {
+		"pink": "#E11383",
+		"orange": "#F5821F",
+		"brown": "#683817"
+	},
+	
+	"ebay": {
+		"red": "#E53238",
+		"blue": "#0064D2",
+		"yellow": "#F5AF02",
+		"green": "#86B817"
+	},
+	
+	"espn": {
+		"red": "#CC0000"
+	},
+	
+	"evian": {
+		"red": "#E1194A",
+		"blue": "#007CBB",
+		"light_pink": "#F7D8DF"
+	},
+	
+	"facebook": {
+		"blue": "#4267B2",
+		"messenger_blue": "#0078FF",
+		"messenger_light_blue": "#00C6FF"
+	},
+	
+	"fanta": {
+		"orange": "#FF8300",
+		"navy_blue": "#11246F",
+		"green": "#369638",
+		"dark_green": "#21662F"
+	},
+	
+	"fedex": {
+		"purple": "#660099",
+		"orange": "#FF6600"
+	},
+	
+	"ferrari": {
+		"yellow": "#FFF200",
+		"green": "#008C45",
+		"scarlet": "#CD212A"
+	},
+	
+	"fiveguys": {
+		"red": "#C92027"
+	},
+	
+	"footlocker": {
+		"red": "#EE293D"
+	},
+	
+	"frontier": {
+		"red": "#DB202C",
+		"grey": "#4F4C4D"
+	},
+	
+	"gap": {
+		"navy_blue": "#002A5F"
+	},
+	
+	"gatorade ": {
+		"red": "#E51A23",
+		"orange": "#F47A37",
+		"green": "#00693F"
+	},
+	
+	"ge": {
+		"blue": "#026CB6"
+	},
+	
+	"gillette": {
+		"blue": "#182F6E"
+	},
+	
+	"goldman_sachs": {
+		"blue": "#7399C6"
+	},
+	
+	"google": {
+		"google_analytics_dark_orange": "#ED750A",
+		"google_analytics_orange": "#F57E02",
+		"google_analytics_yellow": "#FFC517",
+		"google_analytics_grey": "#757575",
+
+		"blue": "#4285F4",
+		"red": "#DB4437",
+		"yellow": "#F4B400",
+		"green": "#0F9D58"
+	},
+	
+	"gopro": {
+		"light_blue": "#109DD9",
+		"blue": "#075DAA",
+		"light_grey": "#E8E8EA"
+	},
+	
+	"hm": {
+		"red": "#CC071E"
+	},
+	
+	"hardees": {
+		"red": "#F10C26",
+		"yellow": "#FEC830"
+	},
+	
+	"harley_davidson": {
+		"orange": "#FF671F"
+	},
+	
+	"heineken": {
+		"green": "#008200",
+		"dark_green": "#205527",
+		"red": "#FF2B00",
+		"silver": "#C3C3C3"
+	},
+	
+	"hp": {
+		"blue": "#0096D6"
+	},
+	
+	"hewlet_packard": {
+		"green": "#00B287",
+		"grey": "#425563"
+	},
+	
+	"hey_arnold": {
+		"yellow": "#FFD227",
+		"orange": "#FF6500"
+	},
+	
+	"home_depot": {
+		"orange": "#F96302"
+	},
+	
+	"honda": {
+		"red": "#CC0000"
+	},
+	
+	"hsbc": {
+		"red": "#DB0011",
+		"grey": "#9FA1A4"
+	},
+
+	"hughes": {
+		"blue": "#005DAC"
+	},
+
+	"hulu": {
+		"green": "#3DBB3D",
+		"grey": "#666666"
+	},
+
+	"hyundai": {
+		"blue": "#003468"
+	},
+
+	"hy_vee": {
+		"red": "#E2231A"
+	},
+
+	"ibm": {
+		"blue": "#5A87C5"
+	},
+
+	"ikea": {
+		"blue": "#0051BA",
+		"yellow": "#FFDA1A"
+	},
+
+	"innout": {
+		"red": "#C6001D",
+		"yellow": "#FFEF00"
+	},
+
+	"instagram": {
+		"gradient_1": "#405DE6",
+		"gradient_2": "#5851DB",
+		"gradient_3": "#833AB4",
+		"gradient_4": "#C13584",
+		"gradient_5": "#E1306C",
+		"gradient_6": "#FD1D1D",
+		"gradient_7": "#F56040",
+		"gradient_8": "#F77737",
+		"gradient_9": "#FCAF45",
+		"gradient_10": "#FFDC80"
+	},
+
+	"intel": {
+		"blue": "#007DC3"
+	},
+
+	"jackinthebox": {
+		"red": "#E4011A",
+		"dark_red": "#B50A37"
+	},
+
+	"jcpenney": {
+		"red": "#D91920"
+	},
+
+	"jerseymikessubs": {
+		"red": "#EE3227",
+		"blue": "#134A7C"
+	},
+
+	"jimmyjohns": {
+		"red": "#CE1F2F"
+	},
+
+	"johndeere": {
+		"green": "#367C2B",
+		"yellow": "#FFDE00",
+		"black": "#27251F"
+	},
+
+	"jpmorgan": {
+		"brown": "#503629"
+	},
+
+	"kfc": {
+		"red": "#A3080C",
+		"beige": "#F5D4B7",
+		"tan": "#FFF1E2"
+	},
+
+	"keystone_light": {
+		"blue": "#005189",
+		"light_blue": "#43B4E3"
+	},
+
+	"kohls": {
+		"maroon": "#800033"
+	},
+
+	"kroger": {
+		"blue": "#0468B3"
+	},
+
+	"lacoste": {
+		"green": "#004526",
+		"red": "#DB0026"
+	},
+
+	"lego": {
+		"red": "#E3000B",
+		"yellow": "#FFED00"
+	},
+
+	"lenovo": {
+		"red": "#E1140A"
+	},
+
+	"levis": {
+		"red": "#C41230"
+	},
+
+	"lg": {
+		"red": "#A50034",
+		"grey": "#6B6B6B"
+	},
+
+	"linkedin": {
+		"blue": "#2867B2"
+	},
+
+	"little_caesars": {
+		"orange": "#FF671D"
+	},
+
+	"louis_vuitton": {
+		"black": "#19110B"
+	},
+
+	"looney_tunes": {
+		"yellow": "#FFD51F",
+		"red": "#E1393E"
+	},
+
+	"lowes": {
+		"blue": "#004990",
+		"light_blue": "#15B6E5"
+	},
+
+	"macys": {
+		"red": "#E70000"
+	},
+
+	"mastercard": {
+		"red": "#EB001B",
+		"orange": "#FF5F00",
+		"yellow": "#F79E1B",
+		"black": "#19110B"
+	},
+
+	"maurices": {
+		"teal": "#5BB7B2"
+	},
+
+	"mcdonalds": {
+		"yellow": "#FFC72C",
+		"red": "#DA291C"
+	},
+
+	"mercedes_benz": {
+		"deep_blue": "#0B1F2A",
+		"elephant_blue": "#27343C",
+		"greyish_blue": "#333F47",
+		"giord_grey": "#565F64",
+		"aluminium_grey": "#828A8F",
+		"mercedes_grey": "#A4AAAE"
+	},
+
+	"michelob_ultra_light": {
+		"blue": "#00346D",
+		"red": "#EB3C48",
+		"maroon": "#A72540"
+	},
+
+	"mikeymouse_clubhouse": {
+		"red": "#EE2C24",
+		"blue": "#2CAAE2",
+		"green": "#54B948",
+		"yellow": "#F9BF19"
+	},
+
+	"microsoft": {
+		"orange": "#F25022",
+		"green": "#7FBA00",
+		"blue": "#00A4EF",
+		"yellow": "#FFB900",
+		"grey": "#737373"
+	},
+
+	"miller_highlife": {
+		"red": "#A9483D",
+		"gold": "#9E895C"
+	},
+
+	"miller_lite": {
+		"blue": "#0C223F",
+		"red": "#D0202E",
+		"wheat": "#DDBD86"
+	},
+
+	"monster_energy": {
+		"green": "#8CC63F"
+	},
+
+	"mtndew": {
+		"red": "#ED1A37",
+		"green": "#07703C",
+		"lime_green": "#94C93D"
+	},
+
+	"mug_root_beer": {
+		"brown": "#5A341F",
+		"red": "#DA2127",
+		"yellow": "#F3BD37"
+	},
+
+	"mylittlepony": {
+		"dark_purple": "#351858",
+		"purple": "#822B99",
+		"hot_pink": "#EC058E",
+		"pink": "#F140A9",
+		"blue": "#37B0C9"
+	},
+
+	"natural_light": {
+		"blue": "#0076BB",
+		"light_blue": "#0093D4",
+		"red": "#EE4037",
+		"silver": "#C1C3C5"
+	},
+
+	"nestle": {
+		"brown": "#63513D"
+	},
+
+	"netflix": {
+		"": "#E50914"
+	},
+
+	"nikon": {
+		"yellow": "#FFE100"
+	},
+
+	"nintendo": {
+		"red": "#E60012"
+	},
+
+	"nivea": {
+		"blue": "#00136F"
+	},
+
+	"nuvera": {
+		"red": "#DA1A32",
+		"blue": "#15BEF0",
+		"green": "#D3DF4E"
+	},
+
+	"old_navy": {
+		"blue": "#163E69"
+	},
+
+	"oracle": {
+		"red": "#FF0000",
+		"grey": "#7F7F7F"
+	},
+
+	"pabst_blue": {
+		"blue": "#102C73",
+		"silver": "#C5091F",
+		"red": "#C4C4C4"
+	},
+
+	"panda_express": {
+		"red": "#FF0000"
+	},
+
+	"pandora": {
+		"blue": "#00A0EE"
+	},
+
+	"panera_bread": {
+		"tan": "#FFDB87",
+		"brown": "#3C1C00"
+	},
+
+	"papa_johns": {
+		"red": "#DA102E",
+		"green": "#008E6A"
+	},
+
+	"papa_murphys": {
+		"red": "#D40026",
+		"green": "#00663E",
+		"yellow": "#E2B11F"
+	},
+
+	"paw_patrol": {
+		"red": "#BD221F",
+		"blue": "#099EDA",
+		"yellow": "#FEE301",
+		"silver": "#ABB7BD"
+	},
+
+	"paypal": {
+		"pay_blue": "#00457C",
+		"pal_blue": "#0079C1"
+	},
+
+	"pepsi": {
+		"red": "#C9002B",
+		"dark_blue": "#004B93",
+		"light_blue": "#005CB4"
+	},
+
+	"periscope": {
+		"blue": "#40A4C4",
+		"red": "#E94F3C"
+	},
+
+	"philips": {
+		"blue": "#0065D3"
+	},
+
+	"pibb_xtra": {
+		"yellow": "#F6EB14",
+		"grey": "#CCCCCC"
+	},
+
+	"pinterest": {
+		"red": "#BD081C"
+	},
+
+	"pizzahut": {
+		"red": "#EE3A43"
+	},
+
+	"playstation": {
+		"blue": "#003087"
+	},
+
+	"pokemon": {
+		"yellow": "#FFCB05",
+		"blue": "#3D7DCA",
+		"dark_blue": "#003A70"
+	},
+
+	"popeyes": {
+		"red": "#C41230",
+		"orange": "#F58427"
+	},
+
+	"porsche": {
+		"red": "#B12B28",
+		"brown": "#432918",
+		"gold_1": "#C69632",
+		"gold_2": "#E3AB36",
+		"gold_3": "#E1BE78",
+		"gold_4": "#FCDC99",
+		"gold_5": "#FFFAD1"
+	},
+
+	"powerade": {
+		"blue": "#10C7DD"
+	},
+
+	"powerpuff_girls": {
+		"pink": "#F6ADCD",
+		"yellow": "#FFF200"
+	},
+
+	"pwc": {
+		"pink": "#E85C99",
+		"yellow": "#F9B800",
+		"orange": "#F18F0C",
+		"red": "#C71C0B",
+		"light_orange": "#F5B47D",
+		"light_brown": "#D2AE8F"
+	},
+
+	"qdoba": {
+		"orange": "#F99D1C"
+	},
+
+	"rc_cola": {
+		"blue": "#00539A",
+		"red": "#ED3224",
+		"grey": "#A6A8AB"
+	},
+
+	"red_bull": {
+		"red": "#CC1E4A",
+		"blue": "#004C6C",
+		"yellow": "#FFC906"
+	},
+
+	"reddit": {
+		"orange": "#FF4500"
+	},
+
+	"safeway": {
+		"red": "#D6232A"
+	},
+
+	"samssub": {
+		"dark_blue": "#004B8D",
+		"blue": "#0069AA",
+		"light_blue": "#0081C6",
+		"green": "#5D9732"
+	},
+
+	"samsung": {
+		"blue": "#034EA2"
+	},
+
+	"samuel_adams": {
+		"blue": "#002856",
+		"red": "#EB0029"
+	},
+
+	"santander": {
+		"red": "#EA1D25"
+	},
+
+	"sap": {
+		"blue": "#003366",
+		"grey": "#999999",
+		"silver": "#8A8D8F"
+	},
+
+	"sesame_street": {
+		"green": "#00AF42",
+		"yellow": "#FCD000"
+	},
+
+	"shake_shack": {
+		"green": "#6CB33F"
+	},
+
+	"siemens": {
+		"green": "#009999",
+		"black": "#19110B"
+	},
+
+	"sierra_mist": {
+		"green": "#2CA544",
+		"lime": "#89C444",
+		"yellow": "#FFDE05"
+	},
+
+	"skype": {
+		"blue": "#00AFF0"
+	},
+
+	"slack": {
+		"blue": "#36C5F0",
+		"yellow": "#ECB22E",
+		"green": "#2EB67D",
+		"red": "#E01E5A",
+		"aubergine": "#4A154B"
+	},
+
+	"snapchat": {
+		"yellow": "#FFFC00"
+	},
+
+	"sonic_drivein": {
+		"red": "#EF3B44",
+		"blue": "#0A68B0",
+		"yellow": "#FCDD2A",
+		"light_purple": "#97A8D3"
+	},
+
+	"soundcloud": {
+		"orange": "#FE5000"
+	},
+
+	"spongebob": {
+		"yellow": "#FFF56C",
+		"dark_yellow": "#AEAD0D",
+		"light_blue": "#26B9C8",
+		"blue": "#0457A0"
+	},
+
+	
+	"spotify": {
+		"green": "#1DB954"
+	},
+
+	"sprint": {
+		"yellow": "#FFDD05"
+	},
+
+	"sprite": {
+		"blue": "#1E5CB3",
+		"yellow": "#FFF100",
+		"green": "#00A65F"
+	},
+
+	"starbucks": {
+		"green": "#00704A"
+	},
+
+	"subway": {
+		"green": "#005542",
+		"yellow": "#FFF200"
+	},
+
+	"sundrop": {
+		"red": "#D71921",
+		"yellow": "#FFF219",
+		"green": "#22B24C"
+	},
+
+	"sunkist": {
+		"orange": "#FE7D1A",
+		"light_orange": "#FF9E0D",
+		"green": "#018240",
+		"blue": "#0E2B89"
+	},
+
+	"superman": {
+		"red": "#C80000",
+		"yellow": "#FFEB00"
+	},
+
+	"supreme": {
+		"red": "#ED1C24"
+	},
+
+	"surge": {
+		"red": "#ED1C24",
+		"lime": "#B2D234"
+	},
+
+	"t_mobile": {
+		"pink": "#ED008C",
+		"grey": "#999B9E"
+	},
+
+	"tacobell": {
+		"purple": "#682A8D",
+		"light_purple": "#A07EBA"
+	},
+
+	"target": {
+		"red": "#CC0000"
+	},
+
+	"teenage_mutant_ninja_turtles": {
+		"red": "#ED1C24",
+		"green": "#8FD129"
+	},
+
+	"tim_hortons": {
+		"red": "#DD0F2D"
+	},
+
+	"tinder": {
+		"pink": "#FE3C72",
+		"grey": "#424242"
+	},
+
+	"toyota": {
+		"red": "#EB0A1E"
+	},
+
+	"trader_joes": {
+		"red": "#D21242"
+	},
+
+	"twitch": {
+		"purple": "#6441A4"
+	},
+
+	"twitter": {
+		"blue": "#1DA1F2"
+	},
+
+	"uber": {
+		"safety_blue": "#276EF1"
+	},
+
+	"uniqlo": {
+		"red": "#FF0000"
+	},
+
+	"ups": {
+		"gold": "#FEBE10",
+		"brown": "#371400"
+	},
+
+	"verizon": {
+		"red": "#CD040B"
+	},
+
+	"viber": {
+		"purple": "#665CAC",
+		"blue": "#54C0D4",
+		"red": "#EF6062",
+		"yellow": "#F4EF7B",
+		"dark_grey": "#4A4A4A",
+		"grey": "#B0B0B0"
+	},
+
+	"visa": {
+		"blue": "#1A1F71",
+		"gold": "#F7B600"
+	},
+
+	"walgreens": {
+		"red": "#E31836"
+	},
+
+	"walmart": {
+		"blue": "#0072CE",
+		"yellow": "#FFB81C"
+	},
+
+	"wendys": {
+		"red": "#ED1B24",
+		"yellow": "#FAF600",
+		"blue": "#8ED5E6"
+	},
+
+	"whataburger": {
+		"orange": "#FF770F"
+	},
+
+	"whatsapp": {
+		"green": "#4AC959",
+		"grey": "#455A64"
+	},
+
+	"whitecastle": {
+		"blue": "#011375",
+		"orange": "#FBA301"
+	},
+
+	"wholefoods": {
+		"green": "#00674B"
+	},
+
+	"windsteam": {
+		"green": "#7FCC28"
+	},
+
+	"xbox": {
+		"green": "#107C10"
+	},
+
+	"youtube": {
+		"red": "#FF0000",
+		"grey": "#282828"
+	},
+
+	"zappos": {
+		"blue": "#0076BD"
+	}
+
+}
