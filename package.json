@@ -1,27 +1,27 @@
 {
-    "name": "brand-color-schemes",
-    "version": "1.0.0",
-    "description": "A list of brand specific color schemes.",
-    "keywords": [
-      "css",
-      "color",
-      "keywords",
-      "list"
-    ],
-    "license": "ISC",
-    "author": "Daniel Lechner <daniel@lechner.io>",
-    "files": [
-      "colors.json",
-      "index.js"
-    ],
-    "repository": "lechnerio/brand-color-schemes",
-    "scripts": {
-      "test": "standard && node test.js"
-    },
-    "devDependencies": {
-      "standard": "^8.6.0"
-    },
-    "engines": {
-      "node": ">=4"
-    }
+  "name": "brand-color-schemes",
+  "version": "1.0.1",
+  "description": "A list of brand specific color schemes.",
+  "keywords": [
+    "css",
+    "color",
+    "keywords",
+    "list"
+  ],
+  "license": "ISC",
+  "author": "Daniel Lechner <daniel@lechner.io>",
+  "files": [
+    "colors.json",
+    "index.js"
+  ],
+  "repository": "lechnerio/brand-color-schemes",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "engines": {
+    "node": ">=4"
   }
+}
