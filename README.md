@@ -20,6 +20,7 @@ Even though CSS color keywords are case-insensitive, this list only contains low
 
 ## Changelog
 
+- v1.0.2 (2020-09-25): 6 brand colors added
 - v1.0.1 (2020-09-25): 545 colors in total
 - v1.0.0 (2020-09-25): 400+ colors, initial release
 
